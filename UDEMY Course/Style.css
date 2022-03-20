@@ -1,0 +1,23 @@
+body {
+          background-color: burlywood;
+        }
+        hr {
+                border-style: none;
+                border-top-style: dotted;
+                border-color: grey;
+                border-width: 11px;
+                width: 10%;
+        }
+
+h1 {
+          color: #66BFBF;
+}
+
+h3 {
+          color: #66BFBF;
+}
+
+
+
+
+

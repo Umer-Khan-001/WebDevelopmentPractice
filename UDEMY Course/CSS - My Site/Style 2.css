@@ -1,0 +1,52 @@
+body {
+          margin: 0;
+          text-align: center;
+}
+
+h1 {
+          width: 10%;
+          margin: 0 auto;
+
+}
+
+.Top-Container {
+          height: 510px;
+          width: 1750px;
+          padding: 20px;
+          border: solid 10px;
+          background-color: aqua;
+
+}
+
+.Middle-Container {
+          height: 200px;
+          width: 200px;
+          background-color: red;
+          border: solid 10px;
+          padding: 20px;
+          
+          
+         
+}
+
+.Bottom-Container {
+          height: 200px;
+          width: 200px;
+          background-color: greenyellow;
+          padding: 20px;
+          border: solid 10px;
+}
+
+.WS {
+          background-color: teal;
+}
+
+.Bottom-Cloud {
+          position: absolute;
+}
+
+.Top-Cloud {
+          position: absolute;
+          /*right: 300px;*/
+          
+}

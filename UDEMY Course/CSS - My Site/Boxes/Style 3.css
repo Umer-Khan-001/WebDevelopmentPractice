@@ -1,0 +1,30 @@
+.BOne {
+          background-color: red;
+          height: 100px;
+          width: 100px;
+          position: absolute;
+          top: 208px;
+          left: 208px;
+        
+          
+}
+
+.BTwo {
+          background-color: blue;
+          height: 100px;
+          width: 100px;
+          position: absolute;
+          top: 108px;
+          left: 108px;
+}
+        
+ 
+
+.BThree {
+          background-color: yellow;
+          height: 100px;
+          width: 100px;
+          position: absolute;
+         
+}
+
